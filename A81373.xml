@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The daily proceedings of his Majesties fleet on the narrow seas, from the 17. of October to the 15. day of November, since the departure of the Earle of Warwick, lord admirall of the Navie, being now under the conduct of the vice-admirall captaine Battie. Wherein is declared the journall and passages of every particular day, what ships and ammunition they took, and what speciall places they coasted during the foresaid time, from the 17. of October to the 15. of November.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81373</idno>
+            <idno type="STC">Wing D120</idno>
+            <idno type="STC">Thomason E127_25</idno>
+            <idno type="STC">ESTC R14125</idno>
+            <idno type="EEBO-CITATION">99859616</idno>
+            <idno type="PROQUEST">99859616</idno>
+            <idno type="VID">156209</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81373)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156209)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E127[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The daily proceedings of his Majesties fleet on the narrow seas, from the 17. of October to the 15. day of November, since the departure of the Earle of Warwick, lord admirall of the Navie, being now under the conduct of the vice-admirall captaine Battie. Wherein is declared the journall and passages of every particular day, what ships and ammunition they took, and what speciall places they coasted during the foresaid time, from the 17. of October to the 15. of November.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Novemb. 18. Printed for Jon. Wright,</publisher>
+                  <pubPlace>Lonkon [sic] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658 --  Early works to 1800.</term>
+               <term>England and Wales. --  Royal Navy --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Naval operations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156209:1" rendition="simple:additions"/>
+            <p>THE Daily Proceedings OF HIS MAJESTIES Fleet on the Narrow Seas, from the 17. of October to the 15. day of November, ſince the departure of the EARLE OF WARWICK, Lord Admirall of the Navie, being now under the conduct of the Vice-Admirall Captaine <hi>Battie.</hi>
+            </p>
+            <p>
+               <hi>Wherein is declared the Journall and paſſages of every particular day, what Ships and Ammunition they tock, and what ſpeciall places they coaſted during the foreſaid time,</hi>
+               <lb/> From the 17. of October to the 15. of November.</p>
+            <p>
+               <hi>LONKON, Novemb.</hi> 18. Printed for <hi>Jon. Wright.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156209:2"/>
+            <pb n="1" facs="tcp:156209:2"/>
+            <head>A PERFECT DIURNALL of all ſuch Paſſages as have happened in the Engliſh Fleet on the narrow Seas, ſince the departure of the Lord Admirall: <hi>From the</hi> 17. <hi>of October to the</hi> 13. <hi>of November.</hi>
+            </head>
+            <p>
+               <hi>October</hi> 17. <seg rend="decorInit">O</seg>N this day about 10. of the clock the Lord Admirall with a number of Captains and Gentlemen landed at <hi>Dover,</hi> at whoſe landing there was a great triumph in token of our love to his renowned actions, our Fleet of Ships being a<g ref="char:EOLhyphen"/>bout 32. diſcharged three times on all ſides, ſo that there were neere 200. Peeces of Ordnance diſchar<g ref="char:EOLhyphen"/>ged at that time, with many expreſſions of joy and hearty wiſhes for our Admirals good ſucceſſe upon the land; at whoſe departure all Maſters and Mari<g ref="char:EOLhyphen"/>ners much lamented, though they had Malago Sack of the beſt to cheriſh their comfortleſſe hearts, that afterward there was health upon health drunk that day in abundance, as alſo to the Vice-Admirall Ca<g ref="char:EOLhyphen"/>ptaine <hi>Battie,</hi> who hath the whole charge of the Navy in the Earle of <hi>Warwicks</hi> abſence.</p>
+            <p>
+               <hi>Octob.</hi> 18. We weighed our anchors, and the greater Ships bore for the Kings Channell, where they anchored that night, and ſome of the leſſer Ships kept their courſe through the Channell next
+<pb n="2" facs="tcp:156209:3"/>the <hi>Downes,</hi> by 8. of the clock in the evening they were welcomed by the Reare Admirall, and the S. <hi>George,</hi> which were newly come into the <hi>Downes</hi> from <hi>Portſmouth,</hi> but our Vice-Admirall with the reſt of the great ſhips came not untill the next day at noon, at whoſe arrivall we met with three French Men of Warre which refuſed to do their obeyſance to His Majeſties ſhips, wherupon our Admirall gave them a broad ſide, who ſtraightway ſtruck their top ſailes.</p>
+            <p>
+               <hi>Octob.</hi> 19. Our Vice-Admirall came aſhore at S. <hi>Margarets</hi> with divers Captaines, where he was welcomed by the expreſſion of divers peeces of ordnance ſhot from ſeverall places.</p>
+            <p>
+               <hi>Octob.</hi> 20. We rode ſtill at anchor, the Vice-Ad<g ref="char:EOLhyphen"/>mirall neither viſiting any of the ſhips, nor going a<g ref="char:EOLhyphen"/>ſhore, but placed and diſplaced certain Captaines, whoſe names for the preſent I forbeare to ſpeak of, till the next opportunity.</p>
+            <p>
+               <hi>Octob.</hi> 21. We had a muſter, and rode ſtill in the <hi>Downes,</hi> the Whelps being imployed unto <hi>Holland,</hi> and weighed anchor with a Weſterly wind; about 5. of the clock in the evening the Antilope came in<g ref="char:EOLhyphen"/>to our Fleet, who had been at the <hi>Brill,</hi> and bronght us newes that there were 17. ſaile of Flemmiſh Hoyes as then going to the <hi>Brill</hi> with French ſoul<g ref="char:EOLhyphen"/>diers: another ſhip being full of French Comman<g ref="char:EOLhyphen"/>ders, would not ſtrike ſaile unto His Majeſties ſhips, upon which Captaine <hi>Fox</hi> diſcharged two or three peeces of Ordnance upon them, and then, and not before, he ſtruck the top-ſaile down upon the cape.</p>
+            <pb n="3" facs="tcp:156209:3"/>
+            <p> 
+               <hi>Octob.</hi> 22. We lay ſtill at anchor, and the Vice-Ad<g ref="char:EOLhyphen"/>mirall going aſhore was again welcomed as before.</p>
+            <p>
+               <hi>Octob.</hi> 23. We were divided into Squadrons of 3. and to each Squadron were annexed 5. Merchants ſhips, and ſo by conſent were diſperſt about ſeverall places.</p>
+            <p>
+               <hi>Octob.</hi> 24. The Leopard and the Samſon with two Whelpes weighed anchor very early in the morn<g ref="char:EOLhyphen"/>ing, and coaſted about <hi>Callis</hi> Road, and came in to the reſt of the Fleet on the <hi>Downes</hi> that evening.</p>
+            <p>
+               <hi>Octob.</hi> 25. The Lyon, the Freeman, with two Whelps, weighed anchor and left the Fleet, the Whelps came in the next day about noone, and the other two about night; at whoſe returne wee had newes of a fight betwixt a Hollander and 2. Dun<g ref="char:EOLhyphen"/>kerks Slopes on our ſeas neer <hi>Dover</hi> road, the Hol<g ref="char:EOLhyphen"/>lander, having 10. peeces of ordnance, was taken by the Slopes, his men all hurt but 4. and the Gunner kild; but an Engliſh ſhip, called the Bleſſing, reſcued him, and gave the Hollander his ſhip againe.</p>
+            <p>
+               <hi>Octob.</hi> 26. About twelve of the clock we met the King of <hi>Denmarks</hi> Man of Warre, chaſing of a Merchants ſhip of <hi>London,</hi> which came from the Eaſt Indies, but ſhe was conſtrained to put in for <hi>Ireland,</hi> where this Man of War had fetcht her out: he ſaluted our Vice-Admirall with many pee<g ref="char:EOLhyphen"/>ces of ordnance, which were anſwered againe with the like: at the laſt we boarded her, and took ther<g ref="char:EOLhyphen"/>in armour for 5000. men going to <hi>Newcaſtle,</hi> which we made ſtay of, and intend to ſend her with a ſafe convoy to <hi>London.</hi>
+            </p>
+            <pb n="4" facs="tcp:156209:4"/>
+            <p> 
+               <hi>Octob.</hi> 27, 28, 29. We lay at anchor, wanting pro<g ref="char:EOLhyphen"/>viſion of bisket, but we were ſupplied in <hi>Suſſex.</hi>
+            </p>
+            <p>
+               <hi>Octob.</hi> 30. The wind being calm at W. and by S. we weighed anchor, and ſailed to and fro, praying for a faire gale of wind to courſe the ſea; for our Vice-Admirall had notice given him of 14. Flemins and 14. French which kept nigh <hi>Portland,</hi> but ſince we heard they were parted, nevertheleſſe we diſ<g ref="char:EOLhyphen"/>charged a peece of ordnance, and put out a red flag in the Meſon ſhroud: immediately the Captaines and Maſters of every ſhip made their repair aboard, where we called a Councell of Warre, in which it was ordered, that if in caſe we met with the Hol<g ref="char:EOLhyphen"/>landers and French Fleet together, and that the French would not do their obeyſance, to ſend to the Hollanders to tell them, we did not think they would any wayes come againſt the King and Par<g ref="char:EOLhyphen"/>liament, ſo according to their anſwers to deale with them, who ſent us a faire anſwer, that they never had any intent to come againſt the King or Parlia<g ref="char:EOLhyphen"/>ment, the King being their only Protector.</p>
+            <p>
+               <hi>Novemb.</hi> 1. We came to <hi>Dannaſe,</hi> which is the Ea<g ref="char:EOLhyphen"/>ſterly part of the <hi>Iſle of Wight,</hi> and about 11. a clock we came to anchor 2. or 3. leagues from the Iſle, where we lay till 4. of the clock the next morning.</p>
+            <p>
+               <hi>Novemb.</hi> 2. We came to <hi>S. Ellen</hi> near the <hi>Iſte of Wight,</hi> where we rode untill the 5. of this moneth, and weighing anchor we deſcried 40. and odd ſaile, whom we thought to be the Dutch and French Fleet; but when we came up to them, we found them to be Flemmiſh Merchants which came out of <hi>France</hi> with ſalt, except ſome 3. or 4. men of warre:
+<pb n="5" facs="tcp:156209:4"/>we ſpake with ſome of them, and after ſome ſmall view of them, we parted.</p>
+            <p>
+               <hi>Novemb.</hi> 5. We came into <hi>Plymouth</hi> Sound, all the way not paſt any thing of note, ſave that we ſeized on two Dunkerks laden with Ammunition for <hi>Ire<g ref="char:EOLhyphen"/>land:</hi> but ſince our coming here, and before, we heard that the Flemins have ſworn never to lift up their hands againſt the King or Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and that they are not in company with the French, who have been about our coaſts, but are now gone; we onely ſtay for a faire wind to carie us to the Lands end, and as farre as <hi>Silly,</hi> and ſo I think we ſhall return hither againe, whence what may paſſe hereafter of more conſequence I ſhall be glad to adviſe you, and ſhould joy to ſee ſome ſport if any durſt meet us; but I feare that labour will be ſaved; but we ſhall not reſt till we have met with the King of <hi>France</hi> his Army, which is about 10000 ſouldiers, but we ſhall narrowly watch their land<g ref="char:EOLhyphen"/>ing upon any of onr coaſts.</p>
+            <p>
+               <hi>Novemb.</hi> 6. We weighed anchor out of <hi>Plymouth</hi> Sound, and came neare the <hi>Iſle of Silly,</hi> and on the ſame day we came into the Sound again, where we found one of the King of <hi>France</hi> his Dragons, be<g ref="char:EOLhyphen"/>ing ſuch a ſhip as one of His Majeſties Whelps, ha<g ref="char:EOLhyphen"/>ving with her two ſmall Barks, the one he had re<g ref="char:EOLhyphen"/>lieved out of the hands of Dunkerks; the Captaine of the ſhip went aboard our Admirall, but ſtayed not long, but was diſcharged, he told our Vice-Ad<g ref="char:EOLhyphen"/>mirall that 12. ſaile of Dutch, and 14. ſail of French which lay about our coaſt, waiting for purchaſe.</p>
+            <p>
+               <hi>Novemb.</hi> 7. We coaſted up and down, and within ſhot of <hi>Poole</hi> there were three French Barks laid at
+<pb n="6" facs="tcp:156209:5"/>anchor driven in through tempeſtuous weather, our ſhips were too great a burden to follow them, but we ſent our ſhallops well man'd to board them, and there was found therein 1000. mens armour, going for <hi>Ireland,</hi> all which we ſeized on, and have ſtayed the Barks till further order of Parliament.</p>
+            <p>
+               <hi>Novemb.</hi> 8. Within 3. leagues of <hi>Dartmouth</hi> we ſei<g ref="char:EOLhyphen"/>zed on a Flemiſh ſhip who had landed divers com<g ref="char:EOLhyphen"/>manders, as by the examination of the Maſter of the ſhip it appeared, that they were ſent into <hi>Cornwall</hi> with Letters from Colonell <hi>Goring</hi> to Sir <hi>Ralph Ho<g ref="char:EOLhyphen"/>pton,</hi> the ſhip wee gave in charge to the Maior of <hi>Dartmouth,</hi> the Captain and ſoldiers ſent to <hi>London.</hi>
+            </p>
+            <p>
+               <hi>Novem.</hi> 9, 10. We ſpied a Fleet of Dunkerks com<g ref="char:EOLhyphen"/>ing from the Southward, ſuſpecting Colonel <hi>Goring</hi> and others to be therein, but the ſwiftneſſe of their ſmall veſſels out-ſailed our Fleet.</p>
+            <p>
+               <hi>Novemb.</hi> 11. We took the Dutch man of war that landed Prince <hi>Robert</hi> in <hi>England,</hi> who was laden with ſtore of ammunition, and going for <hi>Lyme</hi> in <hi>Dorſetſhire,</hi> we have diſtrained both ſhip and ammu<g ref="char:EOLhyphen"/>nition till the Prince ſhall reprieve them.</p>
+            <p>
+               <hi>Novemb.</hi> 12. Wee had order to come for <hi>Portſ<g ref="char:EOLhyphen"/>mouth,</hi> and what further order as yet I know not, but we hope we ſhall make a good voyage, and take all the ſcouts roving up and downe our coaſts; for we have laid diligent wait in all creeks, to ſtop the paſſage of the Cavaliers from coming out or going in, in the <hi>interim</hi> if any thing paſſe, you ſhall heare from me, but believe no report contrary to this journall, which is the truth of our proceedings.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
